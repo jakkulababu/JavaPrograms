@@ -11,8 +11,8 @@ public class CharAtExample3
 		System.out.println(i+ "index Character :"+str.charAt(i));
 		System.out.println("Character last index is:"+str.charAt(str.length()-1));
 		
-		char array=str.ToCharArray();
-		for(int i=0;i<array.length();i++)
+		char[] array=str.toCharArray();
+		for(int i=0;i<array.length;i++)
 		{
 			System.out.println(i);
 		}
