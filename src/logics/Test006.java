@@ -1,4 +1,4 @@
-package myPack1;
+package logics;
 
 public class Test006 {
 
