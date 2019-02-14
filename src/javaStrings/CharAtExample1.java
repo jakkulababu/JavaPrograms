@@ -7,5 +7,7 @@ public class CharAtExample1
 		String str="JavaString";
 		char c1=str.charAt(0);
 		System.out.println(c1);
+			char c2=str.charAt(2);
+			System.out.println(c2);
 	}
 }
