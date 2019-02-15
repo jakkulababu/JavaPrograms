@@ -9,7 +9,6 @@ public class Equals_EqualsIgnoreCase_EndsWith {
 		String str3="";
 		if(str1.equals(str2)) {System.out.println("Test Passed");}else {System.out.println("Test Failed");}
 		if(str1.equalsIgnoreCase(str2)) {System.out.println("Test Passed");}else {System.out.println("Test Failed");}
-		if(str1.endsWith("bau")) {System.out.println("Test Passed");}else {System.out.println("Test Failed");}
-		if(str3.isEmpty()) {System.out.println("isEmpty Test passed");}else {System.out.println("isEmpty Test Failed");}
+		
 	}
 }
